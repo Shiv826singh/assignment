@@ -15,14 +15,6 @@ public class Main {
         System.out.println(p.product(2,3));
         System.out.println(p.product(2,3,4));
         System.out.println(p.product(2.8,3.3));
-        System.out.println(p.product(2,3));
-        System.out.println(p.product(2,3,4));
-        System.out.println(p.product(2.8,3.3));
-        System.out.println(p.product(2,3));
-        System.out.println(p.product(2,3,4));
-        System.out.println(p.product(2.8,3.3));
-        System.out.println(p.product(2,3));
-        System.out.println(p.product(2,3,4));
-        System.out.println(p.product(2.8,3.3));
+
     }
 }
